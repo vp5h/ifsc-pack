@@ -1,6 +1,6 @@
 {
   "name": "ifsc-pack",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Finding IFSC codes across india",
   "main": "index.js",
   "scripts": {
