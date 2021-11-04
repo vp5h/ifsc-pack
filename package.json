@@ -1,0 +1,26 @@
+{
+  "name": "ifsc-pack",
+  "version": "1.0.0",
+  "description": "Finding IFSC codes across india",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vp5h/ifsc-pack.git"
+  },
+  "keywords": [
+    "IFSC",
+    "MICR"
+  ],
+  "author": "Pravesh Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vp5h/ifsc-pack/issues"
+  },
+  "homepage": "https://github.com/vp5h/ifsc-pack#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
