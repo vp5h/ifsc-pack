@@ -1,4 +1,4 @@
-# ifsc-pack
+# [ifsc-pack](https://www.npmjs.com/package/ifsc-pack)
 Trying out a npm package 
 
 
